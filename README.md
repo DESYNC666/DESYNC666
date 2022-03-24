@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DESYNC666
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... java,C++
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord:DESYNC#0001
+- 📫 How to reach me Discord:DESYNC#6666
 
 <!---
 DESYNC666/DESYNC666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
